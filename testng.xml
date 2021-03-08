@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/thang/IntelliJworkspace/mentiResultsTest/src/main/java/com/thangs/mentiResultsTest/driverInit.java">
+        <classes>
+            <class name="com.thangs.mentiResultsTest.driverInit">
+                <methods>
+                    <include name="testApi"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
